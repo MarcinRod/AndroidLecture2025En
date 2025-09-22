@@ -1,6 +1,6 @@
 # 🖥️ Codelabs
 
- [1. Introduction to Android Studio](https://marcin.rodziewicz.pracownik.put.poznan.pl/codelabs/en/lab1_android_studio/1szWAXuY4yeEZHvKLN3HPNQfmVztOWqvLAt_SMdB0PFU)
+ [## 1. Introduction to Android Studio](https://marcin.rodziewicz.pracownik.put.poznan.pl/codelabs/en/lab1_android_studio/1szWAXuY4yeEZHvKLN3HPNQfmVztOWqvLAt_SMdB0PFU)
 ###  What you will learn:
 * How to create a project from a template in Android Studio
 * Project structure in Android Studio
@@ -25,6 +25,7 @@
 * Using coroutines for background tasks (multithreading)
 * Using the Intent system
 * Creating animations
+  
  [4. App architecture and network operations](https://marcin.rodziewicz.pracownik.put.poznan.pl/codelabs/en/lab4_jokeApp/1BDB38sR9axVXsPWM5iVVuuoDs0CBVhqCLETFy1-0Jd8)
 ###  What you will learn:
 * using Retrofit to communicate with a REST API

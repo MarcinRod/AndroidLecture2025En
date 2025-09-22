@@ -1,5 +1,5 @@
 # 📚 Table of Topics
-## [1. Kotlin for Android](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/01%20Kotlin%20for%20Android.md)  
+### [1. Kotlin for Android](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/01%20Kotlin%20for%20Android.md)  
    Basics of Kotlin language, syntax, data types, functions, classes, collections, null safety, extension functions.
 
 [2. Android Studio](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/02%20Android%20Studio.md)  

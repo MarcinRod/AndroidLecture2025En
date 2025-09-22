@@ -382,4 +382,4 @@ val product = snapshot.getValue(Product::class.java)
 
 ---
 
-### 🧭 **Back to main page:** [Start](https://github.com/MarcinRod/AndroidLecture2025/tree/main)
+### 🧭 **Back to main page:** [Start](https://github.com/MarcinRod/AndroidLecture2025EN/tree/main)

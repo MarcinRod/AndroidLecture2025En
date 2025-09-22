@@ -27,13 +27,13 @@
    Application layers (UI, ViewModel, Repository, Model), Unidirectional Data Flow, StateFlow, architectural best practices.
 
 ### [10. Background Work – Coroutines](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/10%20Background%20w%20Work%20-%20Coroutines.md)  
-    Threads, coroutines, scope, dispatchers, launch, async, LaunchedEffect, background work, best practices.
+   Threads, coroutines, scope, dispatchers, launch, async, LaunchedEffect, background work, best practices.
 
 ### [11. Databases – Room](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/11%20Databases%20-%20Room.md)  
-    Room, Entity, DAO, Database, singleton, database operations, Flow, TypeConverter, usage examples.
+   Room, Entity, DAO, Database, singleton, database operations, Flow, TypeConverter, usage examples.
 
 ### [12. Internet Communication – Retrofit](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/12%20Internet%20Communication%20-%20Retorfit.md)  
-    Permissions, API, REST, JSON, Retrofit, OkHttp, Moshi, data model, API interface, Call, coroutines, ViewModel.
+   Permissions, API, REST, JSON, Retrofit, OkHttp, Moshi, data model, API interface, Call, coroutines, ViewModel.
 
 ### [13. Firebase Platform](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/13%20Firebase%20Platform.md)  
-    Firebase services, configuration, Authentication, Realtime Database, database structure, references, data write and read.
+   Firebase services, configuration, Authentication, Realtime Database, database structure, references, data write and read.

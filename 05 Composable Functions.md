@@ -511,6 +511,8 @@ Preview in Compose speeds up UI work, lets you test variants, and helps catch vi
 - [Compose Pathway – Compose basics](https://developer.android.com/jetpack/compose/tutorial)
 - [Compose – Preview](https://developer.android.com/jetpack/compose/tooling/preview)
 - [State hoisting – official guide](https://developer.android.com/jetpack/compose/state#hoisting)
+- [Material Design 3](https://m3.material.io/components)
+- [Material Design Catalog App](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 ---
 ### 🧭 **Next topic:** [Navigation Component](https://github.com/MarcinRod/AndroidLecture2025EN/blob/main/06%20Navigation%20Component.md)

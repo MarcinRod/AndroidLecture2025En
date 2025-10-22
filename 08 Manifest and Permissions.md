@@ -107,7 +107,7 @@ launcher.launch(arrayOf(
 
 ## 📱Showcase application:
 - [Manifest showcase](https://github.com/MarcinRod/ManifestShowcaseSimple)
-- 
+  
 ## More information:
 - [Permissions overview – Android Developers](https://developer.android.com/guide/topics/permissions/overview)
 - [Request app permissions – Android Developers](https://developer.android.com/training/permissions/requesting)

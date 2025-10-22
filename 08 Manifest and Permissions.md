@@ -105,6 +105,9 @@ launcher.launch(arrayOf(
 - **Permissions** protect user privacy – the app must request access to sensitive data and features.
 - Since Android 6.0, some permissions require user consent at runtime.
 
+## 📱Showcase application:
+- [Manifest showcase](https://github.com/MarcinRod/ManifestShowcaseSimple)
+- 
 ## More information:
 - [Permissions overview – Android Developers](https://developer.android.com/guide/topics/permissions/overview)
 - [Request app permissions – Android Developers](https://developer.android.com/training/permissions/requesting)

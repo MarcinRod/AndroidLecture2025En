@@ -169,7 +169,7 @@ In this example:
   
 ## 📱Showcase application:
 - [Background tasks](https://github.com/MarcinRod/BackgroundOperationShowcase)
-- 
+  
 ## More Information
 
 - [Kotlin Coroutines – Android Developers](https://developer.android.com/kotlin/coroutines)

@@ -166,7 +166,10 @@ In this example:
 
 - **Use LaunchedEffect for initialization and reacting to parameter changes in composables**  
   This ensures tasks run only when needed.
-
+  
+## 📱Showcase application:
+- [Background tasks](https://github.com/MarcinRod/BackgroundOperationShowcase)
+- 
 ## More Information
 
 - [Kotlin Coroutines – Android Developers](https://developer.android.com/kotlin/coroutines)

@@ -221,7 +221,7 @@ val productsFlow: Flow<List<Product>> = productDao.observeAll()
 
 ## 📱Showcase application:
 - [Room and DataStore](https://github.com/MarcinRod/DataStorageShowcase)
-- 
+  
 **More information:**  
 - [Official Room documentation](https://developer.android.com/training/data-storage/room)
 - [Room Persistence Library – guide](https://developer.android.com/jetpack/androidx/releases/room)
